@@ -362,6 +362,7 @@
 "Assets/Economica.cs"
 "Assets/MagicBombController.cs"
 "Assets/MagicWallController.cs"
+"Assets/MusicController.cs"
 "Assets/ParticleController.cs"
 "Assets/Scripts/Ball.cs"
 "Assets/Scripts/GameManager/CounterGoal.cs"

@@ -122,4 +122,11 @@ public class GameManager : MonoBehaviour
         TextManager.editMainGold(economica.GetCurrentGold());
     }
 
+
+    public void QuitGame()
+    {
+        Debug.Log("Выход из игры");
+        Application.Quit();
+    }
+
 }

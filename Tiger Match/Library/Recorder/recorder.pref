@@ -37,7 +37,7 @@ MonoBehaviour:
   m_Name: Image Sequence
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 20
+  take: 35
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -55,7 +55,7 @@ MonoBehaviour:
     gameViewInputSettings:
       m_OutputResolution:
         m_CustomWidth: 1242
-        m_CustomHeight: 2208
+        m_CustomHeight: 2688
         imageHeight: 2147483647
         maxSupportedHeight: 4320
         m_AspectRatio:
